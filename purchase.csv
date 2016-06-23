@@ -1,0 +1,13 @@
+Gender,Age,Is a premium member (if they are the get free shipping),Amount spent since the start of the year,Made a purchase in the current month 
+M,45,Member,3000,Yes
+M,40,Non,150,Yes
+M,24,Non,20,No
+M,27,Member,0,No
+F,30,Non,0,No
+F,60,Non,38,No
+F,19,Member,12,No
+F,26,Member,170,Yes
+F,32,Member,1987,Yes
+F,29,Non,300,Yes
+F,39,Member,432,Yes
+F,34,Non,300,No
